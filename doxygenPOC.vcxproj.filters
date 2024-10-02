@@ -18,10 +18,10 @@
     <ClCompile Include="doxygenPOC.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="example.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="example_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

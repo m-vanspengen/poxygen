@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\doxygenPOC\\example_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\github\\poxygen\\example_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|solutionrelative:example_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\doxygenPOC\\example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\github\\poxygen\\example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|solutionrelative:example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\doxygenPOC\\doxygenPOC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\github\\poxygen\\doxygenPOC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|solutionrelative:doxygenPOC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\doxygenPOC\\Header.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|C:\\Users\\marco\\source\\repos\\github\\poxygen\\Header.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0F8BD4F8-5131-4559-93E4-A9ECB38DB465}|doxygenPOC.vcxproj|solutionrelative:Header.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "example_test.cpp",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\example_test.cpp",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\example_test.cpp",
               "RelativeDocumentMoniker": "example_test.cpp",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\example_test.cpp",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\example_test.cpp",
               "RelativeToolTip": "example_test.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -49,40 +49,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "example.cpp",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\example.cpp",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\example.cpp",
               "RelativeDocumentMoniker": "example.cpp",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\example.cpp",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\example.cpp",
               "RelativeToolTip": "example.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T13:44:53.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T13:44:53.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Header.hpp",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\Header.hpp",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\Header.hpp",
               "RelativeDocumentMoniker": "Header.hpp",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\Header.hpp",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\Header.hpp",
               "RelativeToolTip": "Header.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-30T11:31:02.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T11:31:02.558Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "doxygenPOC.cpp",
-              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\doxygenPOC.cpp",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\doxygenPOC.cpp",
               "RelativeDocumentMoniker": "doxygenPOC.cpp",
-              "ToolTip": "C:\\Users\\marco\\source\\repos\\doxygenPOC\\doxygenPOC.cpp",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\github\\poxygen\\doxygenPOC.cpp",
               "RelativeToolTip": "doxygenPOC.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T10:52:45.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:52:45.179Z"
             }
           ]
         }
